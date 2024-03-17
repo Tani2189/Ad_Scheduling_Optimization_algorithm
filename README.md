@@ -1,4 +1,4 @@
-# Ad_Scheduling_Optimization_algorithm
+# Quantum ad_Scheduling_Optimization_algorithm
 # Spearheaded the development of cutting-edge quantum scheduling system for advertising and harnessing over 8+ Qiskit and Python libraries.
 
 # Constructed a similarity matrix to address specific constraints, facilitating scheduling optimization through the utilization of QAOA algorithm, achieving an impressive accuracy rate exceeding 90%.
